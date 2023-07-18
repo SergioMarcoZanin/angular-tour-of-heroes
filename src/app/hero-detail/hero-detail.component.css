@@ -12,16 +12,17 @@ label {
   }
   button {
     margin-top: 20px;
-    background-color: #eee;
+    background-color: #3f525c;
     padding: 1rem;
-    border-radius: 4px;
+    border-radius: 6%;
     font-size: 1rem;
+    color: white;
   }
   button:hover {
-    background-color: #cfd8dc;
+    background-color: black;
   }
   button:disabled {
     background-color: #eee;
-    color: #ccc;
+    color: white;
     cursor: auto;
   }
