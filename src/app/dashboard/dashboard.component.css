@@ -1,10 +1,10 @@
-h1{
+/* Stili CSS privati ​​di DashboardComponent */
+
+h2 {
     text-align: center;
-}
-
-
-
-nav {
+  }
+  
+  .heroes-menu {
     padding: 0;
     margin: auto;
     max-width: 1000px;
@@ -28,7 +28,7 @@ nav {
     color: #fff;
     text-align: center;
     width: 100%;
-    min-width: 100px;
+    min-width: 70px;
     margin: .5rem auto;
     box-sizing: border-box;
   
