@@ -10,6 +10,7 @@ import { MessageService } from './message.service';
   providedIn: 'root',
 })
 export class HeroService {
+  [x: string]: any;
 
   constructor(private messageService: MessageService) { }
 
